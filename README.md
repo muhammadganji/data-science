@@ -52,7 +52,7 @@ Libraries
 2.	__Scikit-learn__: machine learning model, preprocessing
 3.	__NumPy__: linear algebra
 4.	__Keras__: deep learning model
-5.	__Lightgbm____: decision tree algorithm in machine learning
+5.	__Lightgbm__: decision tree algorithm in machine learning
 6.	__Seaborn__: visualization data
 7.	__Spacy__: natural language processing
 ---
